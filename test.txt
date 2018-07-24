@@ -1,3 +1,2 @@
 This is a test repository
-this is new dev
-this is master
+this is dev
